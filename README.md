@@ -91,5 +91,10 @@ Objetivos futuros
 - Meu GitHub- [toncardoso](https://www.your-site.com)
 - Meu perfil Frontendmentor - [@toncardoso](https://www.frontendmentor.io/profile/toncardoso)
 
+## Agradecimentos
+
+- https://www.youtube.com/c/devemdobro
+- https://www.youtube.com/c/rafaellaballerini
+
 
 
